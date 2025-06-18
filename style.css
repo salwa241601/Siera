@@ -1,0 +1,67 @@
+/* Invoice Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.invoice-wrapper {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    max-width: 600px;
+    margin: auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+header h1 {
+    font-size: 24px;
+    color: #0d4715;
+}
+
+section h3 {
+    font-size: 18px;
+    color: #0d4715;
+    margin-bottom: 10px;
+}
+
+section p {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 14px;
+}
+
+/* Form Persetujuan Admin Styles */
+.card {
+    background-color: white;
+    width: 300px;
+    margin: 20px;
+    border-radius: 15px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.buttons form {
+    display: inline;
+}
+
+.btn {
+    background-color: #0D4715;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #157a30;
+}
